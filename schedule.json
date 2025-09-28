@@ -1790,4 +1790,341 @@
         { "time": "8. Ders", "name": "İngilizce", "objective": "Kazanım belirtilmemiş." }
       ]
     }
+  },
+  "week33": {
+    "name": "33. Hafta",
+    "dates": "18.05.2026 - 22.05.2026",
+    "days": {
+      "pazartesi": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "KONUŞMA: T.4.2.1. Kelimeleri anlamlarına uygun kullanır. T.4.2.2. Hazırlıksız konuşmalar yapar." },
+        { "time": "2. Ders", "name": "Matematik", "objective": "M.4.3.5.1. Yarım ve çeyrek kilogramı gram cinsinden ifade eder." },
+        { "time": "3. Ders", "name": "Türkçe", "objective": "T.4.2.3. Hazırlıklı konuşmalar yapar. T.4.2.4. Konuşma stratejilerini uygular." },
+        { "time": "4. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "5. Ders", "name": "Fen Bilimleri", "objective": "F.4.7.1.2. Çalışan bir elektrik devresi kurar." },
+        { "time": "6. Ders", "name": "Sosyal Bilgiler", "objective": "SB.4.7.1. Dünya üzerindeki çeşitli ülkeleri tanıtır." },
+        { "time": "7. Ders", "name": "Görsel Sanatlar", "objective": "G.4.1.4. İki boyutlu yüzey üzerinde derinlik etkisi oluşturur." },
+        { "time": "8. Ders", "name": "İngilizce", "objective": "Kazanım belirtilmemiş." }
+      ],
+      "sali": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "OKUMA: T.4.3.1. Noktalama işaretlerine dikkat ederek sesli ve sessiz okur. T.4.3.10. Okuduğu metindeki gerçek, mecaz ve terim anlamlı sözcükleri belirler." },
+        { "time": "2. Ders", "name": "Fen Bilimleri", "objective": "F.4.7.1.3. Evde ve okuldaki elektrik düğmelerinin ve kabloların birer devre elemanı olduğunu bilir." },
+        { "time": "3. Ders", "name": "Matematik", "objective": "M4.3.5.2. Kilogram ve gramı kütle ölçerken birlikte kullanır." },
+        { "time": "4. Ders", "name": "Türkçe", "objective": "T.4.3.12. Bağlamdan yararlanarak bilmediği kelime ve kelime gruplarının anlamını tahmin eder." },
+        { "time": "5. Ders", "name": "Sosyal Bilgiler", "objective": "SB.4.7.2. Türkiye'nin komşuları ve diğer Türk Cumhuriyetleri ile olan ilişkilerini kavrar." },
+        { "time": "6. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "7. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "8. Ders", "name": "Matematik", "objective": "M.4.3.5.3. Ton ve miligramın kullanıldığı yerleri belirler." }
+      ],
+      "carsamba": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "T.4.3.18. Okuduğu metinle ilgili soruları cevaplar. T.4.3.19. Metinle ilgili sorular sorar." },
+        { "time": "2. Ders", "name": "İnsan Hakları", "objective": "Y.4.6.4. Yurttaş olmanın sorumluluklarını açıklar." },
+        { "time": "3. Ders", "name": "Serbest Etkinlik", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "4. Ders", "name": "Din Kültürü", "objective": "4.5.1. İslam dininin temizliğe verdiği öneme örnekler verir. Abdest" },
+        { "time": "5. Ders", "name": "Trafik Güvenliği", "objective": "TG.4.2.3. İlk yardım uygulamalarında doğru müdahalenin önemini tartışır." },
+        { "time": "6. Ders", "name": "Matematik", "objective": "M.4.3.5.2. Kilogram ve gramı kütle ölçerken birlikte kullanır." },
+        { "time": "7. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "8. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." }
+      ],
+      "persembe": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "YAZMA: T.4.4.2. Bir işin işlem basamaklarına ilişkin yönergeler yazar." },
+        { "time": "2. Ders", "name": "Beden Eğitimi", "objective": "BO.4.2.3.3. Kültürümüze ve diğer kültürlere ait çocuk oyunlarını oynar." },
+        { "time": "3. Ders", "name": "Beden Eğitimi", "objective": "BO.4.2.3.3. Kültürümüze ve diğer kültürlere ait çocuk oyunlarını oynar." },
+        { "time": "4. Ders", "name": "İnsan Hakları", "objective": "Y.4.6.4. Yurttaş olmanın sorumluluklarını açıklar." },
+        { "time": "5. Ders", "name": "Matematik", "objective": "M.4.3.5.4. Ton-kilogram, kilogram-gram, gram-miligram arasındaki ilişkiyi açıklar ve birbirine dönüştürür." },
+        { "time": "6. Ders", "name": "Türkçe", "objective": "T.4.4.3. Hikâye edici metin yazar." },
+        { "time": "7. Ders", "name": "Serbest Etkinlik", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "8. Ders", "name": "İngilizce", "objective": "Kazanım belirtilmemiş." }
+      ],
+      "cuma": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "T.4.4.19. Yazılarında kelimeleri gerçek, mecaz ve terim anlamları ile kullanır." },
+        { "time": "2. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "3. Ders", "name": "Matematik", "objective": "M.4.3.5.4. Ton-kilogram, kilogram-gram, gram-miligram arasındaki ilişkiyi açıklar ve birbirine dönüştürür." },
+        { "time": "4. Ders", "name": "Sosyal Bilgiler", "objective": "SB.4.7.2. Türkiye'nin komşuları ve diğer Türk Cumhuriyetleri ile olan ilişkilerini kavrar." },
+        { "time": "5. Ders", "name": "Kulüp", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "6. Ders", "name": "Kulüp", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "7. Ders", "name": "Din Kültürü", "objective": "4.5.1. İslam dininin temizliğe verdiği öneme örnekler verir.2. Bedenimi ve Giysilerimi Temiz Tutarım" },
+        { "time": "8. Ders", "name": "İngilizce", "objective": "Kazanım belirtilmemiş." }
+      ]
+    }
+  },
+  "week34": {
+    "name": "34. Hafta",
+    "dates": "25.05.2026 - 29.05.2026",
+    "days": {
+      "pazartesi": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "KONUŞMA: T.4.2.1. Kelimeleri anlamlarına uygun kullanır. T.4.2.2. Hazırlıksız konuşmalar yapar." },
+        { "time": "2. Ders", "name": "Matematik", "objective": "M.4.3.5.1. Yarım ve çeyrek kilogramı gram cinsinden ifade eder." },
+        { "time": "3. Ders", "name": "Türkçe", "objective": "T.4.2.3. Hazırlıklı konuşmalar yapar. T.4.2.4. Konuşma stratejilerini uygular." },
+        { "time": "4. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "5. Ders", "name": "Fen Bilimleri", "objective": "F.4.7.1.2. Çalışan bir elektrik devresi kurar." },
+        { "time": "6. Ders", "name": "Sosyal Bilgiler", "objective": "SB.4.7.1. Dünya üzerindeki çeşitli ülkeleri tanıtır." },
+        { "time": "7. Ders", "name": "Görsel Sanatlar", "objective": "G.4.1.4. İki boyutlu yüzey üzerinde derinlik etkisi oluşturur." },
+        { "time": "8. Ders", "name": "İngilizce", "objective": "Kazanım belirtilmemiş." }
+      ],
+      "sali": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "OKUMA: T.4.3.1. Noktalama işaretlerine dikkat ederek sesli ve sessiz okur. T.4.3.10. Okuduğu metindeki gerçek, mecaz ve terim anlamlı sözcükleri belirler." },
+        { "time": "2. Ders", "name": "Fen Bilimleri", "objective": "F.4.7.1.3. Evde ve okuldaki elektrik düğmelerinin ve kabloların birer devre elemanı olduğunu bilir." },
+        { "time": "3. Ders", "name": "Matematik", "objective": "M4.3.5.2. Kilogram ve gramı kütle ölçerken birlikte kullanır." },
+        { "time": "4. Ders", "name": "Türkçe", "objective": "T.4.3.12. Bağlamdan yararlanarak bilmediği kelime ve kelime gruplarının anlamını tahmin eder." },
+        { "time": "5. Ders", "name": "Sosyal Bilgiler", "objective": "SB.4.7.2. Türkiye'nin komşuları ve diğer Türk Cumhuriyetleri ile olan ilişkilerini kavrar." },
+        { "time": "6. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "7. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "8. Ders", "name": "Matematik", "objective": "M.4.3.5.3. Ton ve miligramın kullanıldığı yerleri belirler." }
+      ],
+      "carsamba": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "T.4.3.18. Okuduğu metinle ilgili soruları cevaplar. T.4.3.19. Metinle ilgili sorular sorar." },
+        { "time": "2. Ders", "name": "İnsan Hakları", "objective": "Y.4.6.4. Yurttaş olmanın sorumluluklarını açıklar." },
+        { "time": "3. Ders", "name": "Serbest Etkinlik", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "4. Ders", "name": "Din Kültürü", "objective": "4.5.1. İslam dininin temizliğe verdiği öneme örnekler verir. Abdest" },
+        { "time": "5. Ders", "name": "Trafik Güvenliği", "objective": "TG.4.2.3. İlk yardım uygulamalarında doğru müdahalenin önemini tartışır." },
+        { "time": "6. Ders", "name": "Matematik", "objective": "M.4.3.5.2. Kilogram ve gramı kütle ölçerken birlikte kullanır." },
+        { "time": "7. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "8. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." }
+      ],
+      "persembe": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "YAZMA: T.4.4.2. Bir işin işlem basamaklarına ilişkin yönergeler yazar." },
+        { "time": "2. Ders", "name": "Beden Eğitimi", "objective": "BO.4.2.3.3. Kültürümüze ve diğer kültürlere ait çocuk oyunlarını oynar." },
+        { "time": "3. Ders", "name": "Beden Eğitimi", "objective": "BO.4.2.3.3. Kültürümüze ve diğer kültürlere ait çocuk oyunlarını oynar." },
+        { "time": "4. Ders", "name": "İnsan Hakları", "objective": "Y.4.6.4. Yurttaş olmanın sorumluluklarını açıklar." },
+        { "time": "5. Ders", "name": "Matematik", "objective": "M.4.3.5.4. Ton-kilogram, kilogram-gram, gram-miligram arasındaki ilişkiyi açıklar ve birbirine dönüştürür." },
+        { "time": "6. Ders", "name": "Türkçe", "objective": "T.4.4.3. Hikâye edici metin yazar." },
+        { "time": "7. Ders", "name": "Serbest Etkinlik", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "8. Ders", "name": "İngilizce", "objective": "Kazanım belirtilmemiş." }
+      ],
+      "cuma": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "T.4.4.19. Yazılarında kelimeleri gerçek, mecaz ve terim anlamları ile kullanır." },
+        { "time": "2. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "3. Ders", "name": "Matematik", "objective": "M.4.3.5.4. Ton-kilogram, kilogram-gram, gram-miligram arasındaki ilişkiyi açıklar ve birbirine dönüştürür." },
+        { "time": "4. Ders", "name": "Sosyal Bilgiler", "objective": "SB.4.7.2. Türkiye'nin komşuları ve diğer Türk Cumhuriyetleri ile olan ilişkilerini kavrar." },
+        { "time": "5. Ders", "name": "Kulüp", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "6. Ders", "name": "Kulüp", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "7. Ders", "name": "Din Kültürü", "objective": "4.5.1. İslam dininin temizliğe verdiği öneme örnekler verir.2. Bedenimi ve Giysilerimi Temiz Tutarım" },
+        { "time": "8. Ders", "name": "İngilizce", "objective": "Kazanım belirtilmemiş." }
+      ]
+    }
+  },
+  "week35": {
+    "name": "35. Hafta",
+    "dates": "01.06.2026 - 05.06.2026",
+    "days": {
+      "pazartesi": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "DİNLEME İZLEME: T.4.1.1. Görselden/görsellerden hareketle dinleyeceği/izleyeceği metnin konusunu tahmin eder." },
+        { "time": "2. Ders", "name": "Matematik", "objective": "M.4.3.5.5. Ton, kilogram, gram ve miligram ile ilgili problemleri çözer." },
+        { "time": "3. Ders", "name": "Türkçe", "objective": "T.4.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.4.1.6. Dinlediklerinin/izlediklerinin ana fikrini/ana duygusunu belirler." },
+        { "time": "4. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "5. Ders", "name": "Fen Bilimleri", "objective": "Yıl sonu bilim şenliği" },
+        { "time": "6. Ders", "name": "Sosyal Bilgiler", "objective": "SB.4.7.2. Türkiye'nin komşuları ve diğer Türk Cumhuriyetleri ile olan ilişkilerini kavrar." },
+        { "time": "7. Ders", "name": "Görsel Sanatlar", "objective": "G.4.1.5. Gözleme dayalı çizimlerinde kontur çizgisini ve gölgeleme tekniklerini kullanır." },
+        { "time": "8. Ders", "name": "İngilizce", "objective": "Kazanım belirtilmemiş." }
+      ],
+      "sali": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "T.4.1.7. Dinlediklerine/izlediklerine yönelik sorulara cevap verir. T.4.1.9. Dinledikleriyle/izledikleriyle ilgili görüşlerini ifade eder." },
+        { "time": "2. Ders", "name": "Fen Bilimleri", "objective": "Yıl sonu bilim şenliği" },
+        { "time": "3. Ders", "name": "Matematik", "objective": "M.4.3.5.5. Ton, kilogram, gram ve miligram ile ilgili problemleri çözer." },
+        { "time": "4. Ders", "name": "Türkçe", "objective": "Τ.4.1.11. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. T.4.1.12. Dinleme stratejilerini uygular." },
+        { "time": "5. Ders", "name": "Sosyal Bilgiler", "objective": "SB.4.7.3. Farklı ülkelere ait kültürel unsurlarla ülkemizin sahip olduğu kültürel unsurları karşılaştırır." },
+        { "time": "6. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "7. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "8. Ders", "name": "Matematik", "objective": "M.4.3.6.1. Mililitrenin kullanıldığı yerleri açıklar." }
+      ],
+      "carsamba": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "KONUŞMA: T.4.2.1. Kelimeleri anlamlarına uygun kullanır. T.4.2.2. Hazırlıksız konuşmalar yapar." },
+        { "time": "2. Ders", "name": "İnsan Hakları", "objective": "Y.4.6.5. Birlikte yaşama kültürünün günlük hayattaki yansımalarına örnekler verir." },
+        { "time": "3. Ders", "name": "Serbest Etkinlik", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "4. Ders", "name": "Din Kültürü", "objective": "4.5.1. İslam dininin temizliğe verdiği öneme örnekler verir.2. Bedenimi ve Giysilerimi Temiz Tutarım" },
+        { "time": "5. Ders", "name": "Trafik Güvenliği", "objective": "TG.4.2.3. İlk yardım uygulamalarında doğru müdahalenin önemini tartışır." },
+        { "time": "6. Ders", "name": "Matematik", "objective": "M.4.3.5.5. Ton, kilogram, gram ve miligram ile ilgili problemleri çözer." },
+        { "time": "7. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "8. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." }
+      ],
+      "persembe": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "YAZMA: T.4.3.13. Görsellerle ilgili soruları cevaplar." },
+        { "time": "2. Ders", "name": "Beden Eğitimi", "objective": "BO.4.2.3.3. Kültürümüze ve diğer kültürlere ait çocuk oyunlarını oynar." },
+        { "time": "3. Ders", "name": "Beden Eğitimi", "objective": "BO.4.2.3.3. Kültürümüze ve diğer kültürlere ait çocuk oyunlarını oynar." },
+        { "time": "4. Ders", "name": "İnsan Hakları", "objective": "Y.4.6.5. Birlikte yaşama kültürünün günlük hayattaki yansımalarına örnekler verir." },
+        { "time": "5. Ders", "name": "Matematik", "objective": "M.4.3.6.2. Litre ve mililitre arasındaki ilişkiyi açıklar ve birbirine dönüştürür." },
+        { "time": "6. Ders", "name": "Türkçe", "objective": "T.4.2.3. Hazırlıklı konuşmalar yapar. T.4.2.4. Konuşma stratejilerini uygular." },
+        { "time": "7. Ders", "name": "Serbest Etkinlik", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "8. Ders", "name": "İngilizce", "objective": "Kazanım belirtilmemiş." }
+      ],
+      "cuma": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "T.4.4.20. Harflerin yapısal özelliklerine uygun metin yazar. T.4.4.21. Yazma stratejilerini uygular." },
+        { "time": "2. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "3. Ders", "name": "Matematik", "objective": "M.4.3.6.2. Litre ve mililitre arasındaki ilişkiyi açıklar ve birbirine dönüştürür." },
+        { "time": "4. Ders", "name": "Sosyal Bilgiler", "objective": "SB.4.7.4. Farklı kültürlere saygı gösterir." },
+        { "time": "5. Ders", "name": "Kulüp", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "6. Ders", "name": "Kulüp", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "7. Ders", "name": "Din Kültürü", "objective": "4.5.2. Temiz ve düzenli olmaya özen gösterir. Evimi ve Okulumu Temiz Tutarım" },
+        { "time": "8. Ders", "name": "İngilizce", "objective": "Kazanım belirtilmemiş." }
+      ]
+    }
+  },
+  "week36": {
+    "name": "36. Hafta",
+    "dates": "08.06.2026 - 12.06.2026",
+    "days": {
+      "pazartesi": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "KONUŞMA: T.4.2.1. Kelimeleri anlamlarına uygun kullanır. T.4.2.2. Hazırlıksız konuşmalar yapar." },
+        { "time": "2. Ders", "name": "Matematik", "objective": "M.4.3.6.3. Litre ve mililitreyi miktar belirtmek için bir arada kullanır." },
+        { "time": "3. Ders", "name": "Türkçe", "objective": "T.4.2.3. Hazırlıklı konuşmalar yapar. T.4.2.4. Konuşma stratejilerini uygular." },
+        { "time": "4. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "5. Ders", "name": "Fen Bilimleri", "objective": "Yıl sonu bilim şenliği" },
+        { "time": "6. Ders", "name": "Sosyal Bilgiler", "objective": "SB.4.7.3. Farklı ülkelere ait kültürel unsurlarla ülkemizin sahip olduğu kültürel unsurları karşılaştırır." },
+        { "time": "7. Ders", "name": "Görsel Sanatlar", "objective": "G.4.1.6. Farklı materyalleri kullanarak üç boyutlu çalışmalar yapar." },
+        { "time": "8. Ders", "name": "İngilizce", "objective": "Kazanım belirtilmemiş." }
+      ],
+      "sali": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "OKUMA: T.4.3.1. Noktalama işaretlerine dikkat ederek sesli ve sessiz okur. T.4.3.10. Okuduğu metindeki gerçek, mecaz ve terim anlamlı sözcükleri belirler." },
+        { "time": "2. Ders", "name": "Fen Bilimleri", "objective": "Yıl sonu bilim şenliği" },
+        { "time": "3. Ders", "name": "Matematik", "objective": "M4.3.6.3. Litre ve mililitreyi miktar belirtmek için bir arada kullanır." },
+        { "time": "4. Ders", "name": "Türkçe", "objective": "T.4.3.12. Bağlamdan yararlanarak bilmediği kelime ve kelime gruplarının anlamını tahmin eder." },
+        { "time": "5. Ders", "name": "Sosyal Bilgiler", "objective": "SB.4.7.3. Farklı ülkelere ait kültürel unsurlarla ülkemizin sahip olduğu kültürel unsurları karşılaştırır." },
+        { "time": "6. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "7. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "8. Ders", "name": "Matematik", "objective": "M.4.3.6.4. Bir kaptaki sıvının miktarını, litre ve mililitre birimleriyle tahmin eder ve ölçme yaparak tahminini kontrol eder." }
+      ],
+      "carsamba": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "T.4.3.16. Okuduğu metnin konusunu belirler. T.4.3.17. Metnin ana fikri/ana duygusunu belirler." },
+        { "time": "2. Ders", "name": "İnsan Hakları", "objective": "Y.4.6.5. Birlikte yaşama kültürünün günlük hayattaki yansımalarına örnekler verir." },
+        { "time": "3. Ders", "name": "Serbest Etkinlik", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "4. Ders", "name": "Din Kültürü", "objective": "4.5.2. Temiz ve düzenli olmaya özen gösterir.Çevremi Temiz Tutarım" },
+        { "time": "5. Ders", "name": "Trafik Güvenliği", "objective": "TG.4.2.4. Hafif yaralanmalarda yapılması gerekli ilk yardım uygulamalarını araştırır." },
+        { "time": "6. Ders", "name": "Matematik", "objective": "M.4.3.6.3. Litre ve mililitreyi miktar belirtmek için bir arada kullanır." },
+        { "time": "7. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "8. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." }
+      ],
+      "persembe": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "T.4.3.33. Medya metinlerini değerlendirir. T.4.3.34. Grafik, tablo ve çizelgelerle ilgili soruları cevaplar." },
+        { "time": "2. Ders", "name": "Beden Eğitimi", "objective": "BO.4.2.3.4. Uluslararası müsabakalarda başarılı olmuş Türk sporcularını araştırır." },
+        { "time": "3. Ders", "name": "Beden Eğitimi", "objective": "BO.4.2.3.4. Uluslararası müsabakalarda başarılı olmuş Türk sporcularını araştırır." },
+        { "time": "4. Ders", "name": "İnsan Hakları", "objective": "Y.4.6.5. Birlikte yaşama kültürünün günlük hayattaki yansımalarına örnekler verir." },
+        { "time": "5. Ders", "name": "Matematik", "objective": "M.4.3.6.4. Bir kaptaki sıvının miktarını, litre ve mililitre birimleriyle tahmin eder ve ölçme yaparak tahminini kontrol eder." },
+        { "time": "6. Ders", "name": "Türkçe", "objective": "YAZMA: T.4.4.19. Yazılarında kelimeleri gerçek, mecaz ve terim anlamları ile kullanır." },
+        { "time": "7. Ders", "name": "Serbest Etkinlik", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "8. Ders", "name": "İngilizce", "objective": "Kazanım belirtilmemiş." }
+      ],
+      "cuma": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "T.4.4.19. Yazılarında kelimeleri gerçek, mecaz ve terim anlamları ile kullanır." },
+        { "time": "2. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "3. Ders", "name": "Matematik", "objective": "M.4.3.6.4. Bir kaptaki sıvının miktarını, litre ve mililitre birimleriyle tahmin eder ve ölçme yaparak tahminini kontrol eder." },
+        { "time": "4. Ders", "name": "Sosyal Bilgiler", "objective": "SB.4.7.3. Farklı ülkelere ait kültürel unsurlarla ülkemizin sahip olduğu kültürel unsurları karşılaştırır." },
+        { "time": "5. Ders", "name": "Kulüp", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "6. Ders", "name": "Kulüp", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "7. Ders", "name": "Din Kültürü", "objective": "4.5.2. Temiz ve düzenli olmaya özen gösterir.4. Çevremi Temiz Tutarım" },
+        { "time": "8. Ders", "name": "İngilizce", "objective": "Kazanım belirtilmemiş." }
+      ]
+    }
+  },
+  "week37": {
+    "name": "37. Hafta",
+    "dates": "15.06.2026 - 19.06.2026",
+    "days": {
+      "pazartesi": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "KONUŞMA: T.4.2.1. Kelimeleri anlamlarına uygun kullanır. T.4.2.2. Hazırlıksız konuşmalar yapar." },
+        { "time": "2. Ders", "name": "Matematik", "objective": "M.4.3.6.5. Litre ve mililitre ile ilgili problemleri çözer." },
+        { "time": "3. Ders", "name": "Türkçe", "objective": "T.4.2.3. Hazırlıklı konuşmalar yapar. T.4.2.4. Konuşma stratejilerini uygular." },
+        { "time": "4. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "5. Ders", "name": "Fen Bilimleri", "objective": "Yıl sonu bilim şenliği" },
+        { "time": "6. Ders", "name": "Sosyal Bilgiler", "objective": "SB.4.7.4. Farklı kültürlere saygı gösterir." },
+        { "time": "7. Ders", "name": "Görsel Sanatlar", "objective": "G.4.1.7. Görsel sanat çalışmalarını oluştururken sanat elemanları ve tasarım ilkelerini kullanır." },
+        { "time": "8. Ders", "name": "İngilizce", "objective": "Kazanım belirtilmemiş." }
+      ],
+      "sali": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "OKUMA: T.4.3.1. Noktalama işaretlerine dikkat ederek sesli ve sessiz okur. T.4.3.10. Okuduğu metindeki gerçek, mecaz ve terim anlamlı sözcükleri belirler." },
+        { "time": "2. Ders", "name": "Fen Bilimleri", "objective": "Yıl sonu bilim şenliği" },
+        { "time": "3. Ders", "name": "Matematik", "objective": "M4.3.6.5. Litre ve mililitre ile ilgili problemleri çözer." },
+        { "time": "4. Ders", "name": "Türkçe", "objective": "T.4.3.12. Bağlamdan yararlanarak bilmediği kelime ve kelime gruplarının anlamını tahmin eder." },
+        { "time": "5. Ders", "name": "Sosyal Bilgiler", "objective": "TEMA SONU DEĞERLENDİRME ÇALIŞMALARI" },
+        { "time": "6. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "7. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "8. Ders", "name": "Matematik", "objective": "M.4.3.6.5. Litre ve mililitre ile ilgili problemleri çözer." }
+      ],
+      "carsamba": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "T.4.3.16. Okuduğu metnin konusunu belirler. T.4.3.17. Metnin ana fikri/ana duygusunu belirler." },
+        { "time": "2. Ders", "name": "İnsan Hakları", "objective": "Y.4.6.5. Birlikte yaşama kültürünün günlük hayattaki yansımalarına örnekler verir." },
+        { "time": "3. Ders", "name": "Serbest Etkinlik", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "4. Ders", "name": "Din Kültürü", "objective": "Ünitemizi Değerlendirelim." },
+        { "time": "5. Ders", "name": "Trafik Güvenliği", "objective": "TG.4.2.4. Hafif yaralanmalarda yapılması gerekli ilk yardım uygulamalarını araştırır." },
+        { "time": "6. Ders", "name": "Matematik", "objective": "M.4.3.6.5. Litre ve mililitre ile ilgili problemleri çözer." },
+        { "time": "7. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "8. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." }
+      ],
+      "persembe": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "T.4.3.33. Medya metinlerini değerlendirir. T.4.3.34. Grafik, tablo ve çizelgelerle ilgili soruları cevaplar." },
+        { "time": "2. Ders", "name": "Beden Eğitimi", "objective": "BO.4.2.3.4. Uluslararası müsabakalarda başarılı olmuş Türk sporcularını araştırır." },
+        { "time": "3. Ders", "name": "Beden Eğitimi", "objective": "BO.4.2.3.4. Uluslararası müsabakalarda başarılı olmuş Türk sporcularını araştırır." },
+        { "time": "4. Ders", "name": "İnsan Hakları", "objective": "Y.4.6.5. Birlikte yaşama kültürünün günlük hayattaki yansımalarına örnekler verir." },
+        { "time": "5. Ders", "name": "Matematik", "objective": "M.4.3.6.5. Litre ve mililitre ile ilgili problemleri çözer." },
+        { "time": "6. Ders", "name": "Türkçe", "objective": "YAZMA: T.4.4.19. Yazılarında kelimeleri gerçek, mecaz ve terim anlamları ile kullanır." },
+        { "time": "7. Ders", "name": "Serbest Etkinlik", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "8. Ders", "name": "İngilizce", "objective": "Kazanım belirtilmemiş." }
+      ],
+      "cuma": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "T.4.4.19. Yazılarında kelimeleri gerçek, mecaz ve terim anlamları ile kullanır." },
+        { "time": "2. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "3. Ders", "name": "Matematik", "objective": "M.4.3.6.5. Litre ve mililitre ile ilgili problemleri çözer." },
+        { "time": "4. Ders", "name": "Sosyal Bilgiler", "objective": "TEMA SONU DEĞERLENDİRME ÇALIŞMALARI" },
+        { "time": "5. Ders", "name": "Kulüp", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "6. Ders", "name": "Kulüp", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "7. Ders", "name": "Din Kültürü", "objective": "Genel Değerlendirme" },
+        { "time": "8. Ders", "name": "İngilizce", "objective": "Kazanım belirtilmemiş." }
+      ]
+    }
+  },
+  "week38": {
+    "name": "38. Hafta",
+    "dates": "22.06.2026 - 26.06.2026",
+    "days": {
+      "pazartesi": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "Genel tekrar ve yıl sonu etkinlikleri." },
+        { "time": "2. Ders", "name": "Matematik", "objective": "Genel tekrar ve yıl sonu etkinlikleri." },
+        { "time": "3. Ders", "name": "Türkçe", "objective": "Genel tekrar ve yıl sonu etkinlikleri." },
+        { "time": "4. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "5. Ders", "name": "Fen Bilimleri", "objective": "Yıl sonu bilim şenliği" },
+        { "time": "6. Ders", "name": "Sosyal Bilgiler", "objective": "TEMA SONU DEĞERLENDİRME ÇALIŞMALARI" },
+        { "time": "7. Ders", "name": "Görsel Sanatlar", "objective": "G.4.1.7. Görsel sanat çalışmalarını oluştururken sanat elemanları ve tasarım ilkelerini kullanır." },
+        { "time": "8. Ders", "name": "İngilizce", "objective": "Kazanım belirtilmemiş." }
+      ],
+      "sali": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "Genel tekrar ve yıl sonu etkinlikleri." },
+        { "time": "2. Ders", "name": "Fen Bilimleri", "objective": "Yıl sonu bilim şenliği" },
+        { "time": "3. Ders", "name": "Matematik", "objective": "Genel tekrar ve yıl sonu etkinlikleri." },
+        { "time": "4. Ders", "name": "Türkçe", "objective": "Genel tekrar ve yıl sonu etkinlikleri." },
+        { "time": "5. Ders", "name": "Sosyal Bilgiler", "objective": "TEMA SONU DEĞERLENDİRME ÇALIŞMALARI" },
+        { "time": "6. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "7. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "8. Ders", "name": "Matematik", "objective": "Genel tekrar ve yıl sonu etkinlikleri." }
+      ],
+      "carsamba": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "Genel tekrar ve yıl sonu etkinlikleri." },
+        { "time": "2. Ders", "name": "İnsan Hakları", "objective": "Y.4.6.5. Birlikte yaşama kültürünün günlük hayattaki yansımalarına örnekler verir." },
+        { "time": "3. Ders", "name": "Serbest Etkinlik", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "4. Ders", "name": "Din Kültürü", "objective": "Genel Değerlendirme" },
+        { "time": "5. Ders", "name": "Trafik Güvenliği", "objective": "TG.4.2.4. Hafif yaralanmalarda yapılması gerekli ilk yardım uygulamalarını araştırır." },
+        { "time": "6. Ders", "name": "Matematik", "objective": "Genel tekrar ve yıl sonu etkinlikleri." },
+        { "time": "7. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "8. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." }
+      ],
+      "persembe": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "Genel tekrar ve yıl sonu etkinlikleri." },
+        { "time": "2. Ders", "name": "Beden Eğitimi", "objective": "BO.4.2.3.4. Uluslararası müsabakalarda başarılı olmuş Türk sporcularını araştırır." },
+        { "time": "3. Ders", "name": "Beden Eğitimi", "objective": "BO.4.2.3.4. Uluslararası müsabakalarda başarılı olmuş Türk sporcularını araştırır." },
+        { "time": "4. Ders", "name": "İnsan Hakları", "objective": "Y.4.6.5. Birlikte yaşama kültürünün günlük hayattaki yansımalarına örnekler verir." },
+        { "time": "5. Ders", "name": "Matematik", "objective": "Genel tekrar ve yıl sonu etkinlikleri." },
+        { "time": "6. Ders", "name": "Türkçe", "objective": "Genel tekrar ve yıl sonu etkinlikleri." },
+        { "time": "7. Ders", "name": "Serbest Etkinlik", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "8. Ders", "name": "İngilizce", "objective": "Kazanım belirtilmemiş." }
+      ],
+      "cuma": [
+        { "time": "1. Ders", "name": "Türkçe", "objective": "Genel tekrar ve yıl sonu etkinlikleri." },
+        { "time": "2. Ders", "name": "Etüt", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "3. Ders", "name": "Matematik", "objective": "Genel tekrar ve yıl sonu etkinlikleri." },
+        { "time": "4. Ders", "name": "Sosyal Bilgiler", "objective": "TEMA SONU DEĞERLENDİRME ÇALIŞMALARI" },
+        { "time": "5. Ders", "name": "Kulüp", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "6. Ders", "name": "Kulüp", "objective": "Etkinlik belirtilmemiş." },
+        { "time": "7. Ders", "name": "Din Kültürü", "objective": "Genel Değerlendirme" },
+        { "time": "8. Ders", "name": "İngilizce", "objective": "Kazanım belirtilmemiş." }
+      ]
+    }
   }
+}
