@@ -19,9 +19,8 @@
             --shadow-color: rgba(0, 0, 0, 0.1);
             --active-bg-color: #d7ccc8;
 
-            /* --- AKIŞKAN (FLUID) BOYUTLANDIRMA --- */
-            --font-size-body: clamp(0.85rem, 1.5vw, 1rem); /* 13.6px'den 16px'e kadar akışkan */
-            --font-size-small: clamp(0.7rem, 1.2vw, 0.8rem); /* 11.2px'den 12.8px'e kadar akışkan */
+            --font-size-body: clamp(0.85rem, 1.5vw, 1rem); 
+            --font-size-small: clamp(0.7rem, 1.2vw, 0.8rem);
             --font-size-lesson-name: clamp(0.8rem, 2vw, 0.9rem);
             --font-size-day-title: clamp(1rem, 3vw, 1.3rem);
             
@@ -42,7 +41,6 @@
             font-size: var(--font-size-body);
         }
         
-        /* ÜST BAŞLIK VE NAVİGASYON */
         header { padding: var(--spacing-small) var(--spacing-base); position: sticky; top: 4px; z-index: 1000; margin: 4px; background-color: var(--papyrus-bg-color-dark); border-radius: 8px; border: 1px solid var(--border-color); box-shadow: 0 2px 5px var(--shadow-color); text-align: center; }
         .header-top { display: flex; align-items: center; justify-content: space-between; }
         .week-navigation { display: flex; align-items: center; gap: 10px; flex-grow: 1; justify-content: center; }
@@ -53,14 +51,13 @@
         .day-nav button.active { background-color: var(--accent-color); color: #fff; box-shadow: 0 1px 4px rgba(0,0,0,0.15); }
         .user-name { font-family: 'Cinzel Decorative', cursive; font-size: var(--font-size-small); padding: 2px 8px; border-radius: 12px; background-color: rgba(0,0,0,0.05); color: var(--accent-color); border: 1px dashed var(--border-color); white-space: nowrap; }
 
-        /* ANA İÇERİK ALANI */
         .main-container { padding: 4px; }
 
-        /* HAFTALIK GÖRÜNÜM (CSS GRID) */
         #week-view-container {
             display: grid;
-            grid-template-columns: repeat(5, 1fr); /* 5 eşit, akışkan sütun */
+            grid-template-columns: repeat(5, 1fr);
             gap: var(--spacing-small);
+            align-items: start; /* DÜZELTME: Sütunları yukarıya hizala, esnemeyi önle */
         }
         .week-view-day-column { min-width: 0; }
         .week-view-day-title {
@@ -73,7 +70,6 @@
             color: var(--accent-color);
         }
 
-        /* DERS KARTI TASARIMI */
         .schedule-card {
             margin-bottom: var(--spacing-small);
             background-color: var(--papyrus-bg-color-dark);
@@ -83,7 +79,7 @@
             border-left: 4px solid var(--accent-color);
             display: flex;
             flex-direction: column;
-            height: 100%; /* Grid içinde kartların eşit yükseklikte olmasını sağlar */
+            /* DÜZELTME: height: 100%; kaldırıldı, kartın gereksiz uzamasını engelle */
         }
         .card-header {
             padding: var(--spacing-small) var(--spacing-base);
@@ -112,18 +108,15 @@
             padding: var(--spacing-base);
             line-height: 1.4;
             color: var(--text-primary-color);
-            flex-grow: 1; /* Kartın başlık dışındaki tüm alanı doldurmasını sağlar */
+            flex-grow: 1;
         }
         .card-body.empty { font-style: italic; color: var(--text-secondary-color); opacity: 0.7; }
         
-        /* YAN MENÜ VE AKSİYON BUTONLARI */
         .sidenav { height: 100%; width: 0; position: fixed; z-index: 1001; top: 0; left: 0; overflow-x: hidden; transition: 0.4s ease-out; padding-top: 60px; background-color: var(--papyrus-bg-color-dark); border-right: 2px solid var(--border-color); box-shadow: 2px 0 10px var(--shadow-color); } .sidenav a { padding: 12px 20px; text-decoration: none; font-size: 1.1rem; color: var(--text-secondary-color); display: block; transition: 0.3s; border-bottom: 1px dashed rgba(0,0,0,0.1); } .sidenav a:hover { color: var(--text-primary-color); background-color: var(--active-bg-color); } .sidenav a.active { color: var(--accent-color); font-weight: 700; background-color: var(--active-bg-color); } .sidenav .closebtn { position: absolute; top: 10px; right: 25px; font-size: 36px; color: var(--text-primary-color); }
         .menu-icon, .nav-button { font-size: 24px; cursor: pointer; background: none; border: none; color: var(--text-primary-color); padding: 2px; border-radius: 50%; transition: background 0.3s; } .nav-button:disabled { color: rgba(0,0,0,0.2); cursor: not-allowed; }
         .action-buttons-container { position: fixed; bottom: 20px; right: 20px; z-index: 100; display: flex; gap: 15px; } .action-button { width: 60px; height: 60px; background-color: var(--accent-color); color: white; border: none; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 28px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); cursor: pointer; transition: all 0.3s ease; }
 
-        /* YAZDIRMA STİLLERİ */
         @media print { body { padding-bottom: 0; font-size: 9pt; background-image: none; } header, .day-nav, .sidenav, .action-buttons-container, #week-view-container, #day-view-container { display: none !important; } #print-container { display: block !important; } .print-page-header { text-align: left; margin-bottom: 8px; } .print-page-header h1 { font-size: 11pt; } .print-page-header p { font-size: 9pt; } .print-days-flex-container { display: flex !important; flex-direction: row; gap: 8px; } .print-day-container { flex: 1; } .print-day-title { font-size: 10pt; } .print-card { border: 1px solid #ccc; margin-bottom: 5px; padding: 5px; } .print-card-header { font-size: 8pt; } .print-card-body { font-size: 8pt; } } #print-container { display: none; }
-
     </style>
 </head>
 <body>
@@ -150,13 +143,11 @@
     <div id="print-container"></div>
 
     <script>
-        // Javascript içeriği (değişiklik yok)
         let finalSchedule = {};
         let currentWeekIndex = 0;
         let currentDayId = 'pazartesi';
         let isWeekViewActive = false;
         const dayOrder = { pazartesi: "Pazartesi", sali: "Salı", carsamba: "Çarşamba", persembe: "Perşembe", cuma: "Cuma" };
-
         const weekMenu = document.getElementById('week-menu'),
             dayNav = document.getElementById('day-nav'),
             dayViewContainer = document.getElementById('day-view-container'),
@@ -176,14 +167,11 @@
                     fetch('kazanimlar.json'),
                     fetch('haftalar.json')
                 ]);
-
                 const timetable = await timetableRes.json();
                 const curriculum = await curriculumRes.json();
                 const weeksData = await weeksRes.json();
-                
                 const lessonCounters = {};
                 for (const subject in curriculum) { lessonCounters[subject] = 0; }
-
                 weeksData.forEach((week, index) => {
                     const weekKey = `week${index + 1}`;
                     finalSchedule[weekKey] = { name: week.name, dates: week.dates, days: {} };
@@ -199,16 +187,12 @@
                         });
                     }
                 });
-                
                 populateSideNavMenu(weeksData);
                 populateDayNav(timetable);
-
                 if (window.innerWidth > window.innerHeight) { isWeekViewActive = true; }
-
                 const target = findCurrentWeekAndDay(weeksData);
                 currentDayId = target.dayId;
                 displayWeek(target.weekIndex);
-
             } catch (error) {
                 console.error('Veri dosyaları yüklenirken bir hata oluştu:', error);
                 weekTitleDisplay.textContent = "Hata!";
@@ -244,19 +228,16 @@
             currentWeekIndex = weekIndex;
             const weekKey = `week${weekIndex + 1}`;
             const weekData = finalSchedule[weekKey];
-            
             weekTitleDisplay.textContent = weekData.name;
             dateDisplay.textContent = weekData.dates;
             document.querySelectorAll('#week-menu a').forEach(a => a.classList.toggle('active', parseInt(a.dataset.weekIndex) === weekIndex));
-            
             prevWeekBtn.disabled = weekIndex === 0;
             nextWeekBtn.disabled = weekIndex === Object.keys(finalSchedule).length - 1;
-
             if (isWeekViewActive) {
                 renderWeekView();
                 dayNav.style.display = 'none';
                 dayViewContainer.style.display = 'none';
-                weekViewContainer.style.display = 'grid'; // display: grid olarak güncellendi
+                weekViewContainer.style.display = 'grid';
                 document.getElementById('toggle-view-btn').querySelector('i').textContent = 'view_day';
             } else {
                 displayDay(currentDayId);
@@ -272,7 +253,6 @@
             dayViewContainer.innerHTML = '';
             const weekKey = `week${currentWeekIndex + 1}`;
             const lessons = finalSchedule[weekKey]?.days[dayId] || [];
-
             lessons.forEach(lesson => {
                 const card = document.createElement('div');
                 card.className = 'schedule-card';
@@ -287,12 +267,10 @@
             weekViewContainer.innerHTML = '';
             const weekKey = `week${currentWeekIndex + 1}`;
             const weekData = finalSchedule[weekKey];
-
             for (const dayId in dayOrder) {
                 const column = document.createElement('div');
                 column.className = 'week-view-day-column';
                 let lessonsHTML = `<h3 class="week-view-day-title">${dayOrder[dayId]}</h3>`;
-                
                 const lessons = weekData.days[dayId] || [];
                 lessons.forEach(lesson => {
                     const bodyClass = lesson.objective.includes("belirtilmemiş") ? 'card-body empty' : 'card-body';
@@ -320,7 +298,6 @@
             const week = finalSchedule[weekKey];
             let pageHeaderHTML = `<div class="print-page-header"><h1>${week.name}</h1><p>${week.dates}</p></div>`;
             let daysHTML = '<div class="print-days-flex-container">';
-
             for (const dayId in dayOrder) {
                 daysHTML += `<div class="print-day-container"><h3 class="print-day-title">${dayOrder[dayId]}</h3>`;
                 const lessons = week.days[dayId] || [];
@@ -342,20 +319,16 @@
             const dayMap = ['pazar', 'pazartesi', 'sali', 'carsamba', 'persembe', 'cuma', 'cumartesi'];
             let todayDayId = dayMap[today.getDay()];
             if (todayDayId === 'pazar' || todayDayId === 'cumartesi') { todayDayId = 'pazartesi'; }
-
             for(let i = 0; i < weeksData.length; i++) {
                 const week = weeksData[i];
                 const dateParts = week.dates.split(' - ');
                 if (dateParts.length !== 2) continue;
-                
                 const endPart = dateParts[1].split(' ');
                 const year = endPart[endPart.length - 1];
                 let startPart = dateParts[0].split(' ');
                 if (startPart.length === 2) { startPart.push(year); }
-
                 const startDate = parseTurkishDate(startPart.join(' '));
                 const endDate = parseTurkishDate(dateParts[1]);
-
                 if (startDate && endDate && today >= startDate && today <= endDate) {
                     return { weekIndex: i, dayId: todayDayId };
                 }
