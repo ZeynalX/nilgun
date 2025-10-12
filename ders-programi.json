@@ -17,7 +17,7 @@
     "SOSYAL BİLGİLER",
     "ALMANCA",
     "İNGİLİZCE",
-    "MATEMATİK"
+    "MÜZİK"
   ],
   "carsamba": [
     "TÜRKÇE",
@@ -27,7 +27,7 @@
     "TRAFİK GÜVENLİĞİ",
     "MATEMATİK",
     "İNGİLİZCE",
-    "BİLİŞİM"
+    "BİLİŞİM TEKNOLOJİLERİ"
   ],
   "persembe": [
     "TÜRKÇE",
@@ -36,17 +36,17 @@
     "İNSAN HAKLARI",
     "MATEMATİK",
     "TÜRKÇE",
-    "SERBEST ETKİNLİK",
-    "İNGİLİZCE"
+    "DİN KÜLTÜRÜ",
+    "FEN BİLİMLERİ"
   ],
   "cuma": [
     "TÜRKÇE",
-    "BİLİŞİM",
+    "BİLİŞİM TEKNOLOJİLERİ",
     "MATEMATİK",
     "SOSYAL BİLGİLER",
     "KULÜP",
     "KULÜP",
-    "DİN KÜLTÜRÜ",
+    "SERBEST ETKİNLİK",
     "İNGİLİZCE"
   ]
 }
